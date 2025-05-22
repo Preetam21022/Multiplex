@@ -1,4 +1,4 @@
-# Multiplex
+# Electronics Basics #5: Multiplex
 
 <DOCTYPE HTML>
 <html>
